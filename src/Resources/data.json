@@ -1,0 +1,16 @@
+{
+    "description_acc":"<span><strong>Prenez rendez-vous en ligne pour consulter des professionnels de santé</strong><br/>Gagnez tu temps en prenant vos rendez-vous médicaux en ligne. Consulter un orthodontiste n'a jamais été aussi simple.<br/>Trouvez en quelques clics un professionnel du sourire dans votre région.<br/>Depuis votre compte Joovence, sélectionnez le praticien de votre choix et fixez un rendez-vous avec votre orthodontiste en ligne.<br/><span>",
+    "doct_col": [{
+        "title": "Name",
+        "dataIndex": "name",
+        "key": "name"
+      }, {
+        "title": "Address",
+        "dataIndex": "address",
+        "key": "addres"
+    }, {
+        "title": "Postal Code",
+        "dataIndex": "postalCode",
+        "key": "postalCode"
+    }]
+}

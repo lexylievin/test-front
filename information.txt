@@ -1,0 +1,6 @@
+packages to install via npm
+antd
+react-icons
+react-router-dom
+react-render-html
+react-booking-calendar
